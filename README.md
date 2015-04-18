@@ -1,0 +1,2 @@
+# DylanMTaylor.com Android App Store 
+A store-front site for my old Android apps that I abandoned a long time ago. I'm releasing the source code for this in case anyone finds it interesting or useful. This work is not maintained, and never reached a point where it would be suitable for production use. This was meant to provide a distribution channel for my applications other than the Android Market (now called the Play Store).
