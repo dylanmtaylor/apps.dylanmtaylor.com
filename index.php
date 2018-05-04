@@ -49,8 +49,8 @@
 								"Get 'Lite' Version [FREE]",
 								"Purchase 'Plus' Version [$1.99]"
 								),
-							array("http://code.dylanmtaylor.com/apps/android/EliteBomber.apk",
-								"http://code.dylanmtaylor.com/apps/android/EliteBomb-Lite.apk",
+							array("http://apps.dylanmtaylor.com/apps/android/EliteBomber.apk",
+								"http://apps.dylanmtaylor.com/apps/android/EliteBomb-Lite.apk",
 								"javascript:alert('I am unable to accept payments at this time. Check back later.');"
 								)
 						),
@@ -82,7 +82,7 @@
 								"Purchase 'Pro' Version [$0.99]"
 								),
 							array("http://fwc.dylanmtaylor.com/",
-								"http://code.dylanmtaylor.com/apps/android/FiOS-WEP-Calculator-LITE.apk",
+								"http://apps.dylanmtaylor.com/apps/android/FiOS-WEP-Calculator-LITE.apk",
 								"javascript:alert('I am unable to accept payments at this time. Check back later.');"
 								)
 						),
@@ -106,7 +106,7 @@
 							array("Download InfiniteSMS [FREE]",
 								"Purchase Donation Version [$2.99]",
 								),
-							array("http://code.dylanmtaylor.com/apps/android/InfiniteSMS.apk",
+							array("http://apps.dylanmtaylor.com/apps/android/InfiniteSMS.apk",
 								"javascript:alert('I am unable to accept payments at this time. Check back later.');"
 								)
 						),
@@ -131,7 +131,7 @@
 							"Purchase Donation Version [$0.99]",
 							"View Source Code"
 							),
-						array("http://code.dylanmtaylor.com/apps/android/Simple-Dice-Free.apk",
+						array("http://apps.dylanmtaylor.com/apps/android/Simple-Dice-Free.apk",
 							"javascript:alert('I am unable to accept payments at this time. Check back later.');",
 							"https://github.com/aliendude5300/Simple-Dice/"
 							)
@@ -255,7 +255,7 @@
 						array("Download Self Destruct Proof of Concept [FREE]",
 							"More Information and Source Code"
 							),
-						array("http://code.dylanmtaylor.com/apps/android/Self-Destruct.apk",
+						array("http://apps.dylanmtaylor.com/apps/android/Self-Destruct.apk",
 							"http://dylanmtaylor.com/2010/11/11/an-explanation-of-my-recent-self-destruct-application/"
 							)
 					),
@@ -314,7 +314,7 @@
 		</div>
 	</div>
 	<div id="footer">
-		<p>Copyright &copy; <?php echo date("Y"); #2011 ?> <a href="http://dylanmtaylor.com/" class="footer_link">Dylan M. Taylor</a>. All rights reserved.</p>
+		<p>Copyright &copy; 2011-<?php echo date("Y"); ?> <a href="http://dylanmtaylor.com/" class="footer_link">Dylan M. Taylor</a>. All rights reserved.</p>
 	</div>
 </div>
 </body>
