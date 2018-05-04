@@ -17,7 +17,7 @@
 </head>
 <body>
 <div id="container">
-	<div id="header">Application Download Center <span class="superscript">Beta</span></div>
+	<div id="header">Application Download Center (Abandoned)</div>
 	<ul class="tabs">
 		<li><a href="#android-downloads">Android Downloads</a></li>
 		<li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
